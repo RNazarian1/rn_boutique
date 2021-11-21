@@ -52,11 +52,11 @@ body {
     color: rgb(16, 70, 46) !important;
 }
 
-.border-black {
-    border: 1px solid black !important;
+.bg-black {
+    background: #000 !important;
 }
 
-/* -------------------------------- Media Queries */
+/* --------------------------------- Media queries */
 
 /* Slightly larger container on xl screens */
 @media (min-width: 1200px) {
